@@ -16,13 +16,17 @@
                 <a href="sobre.html">Sobre</a>
             </nav>
         </header>
-        <main>
-            <p class="sub-banner">Faça aqui seu login</p>
-            <hr class="hr3">
-            <h1 class="banner">Deliciosos Cupcakes para qualquer ocasião, pois toda hora é hora de um bolinho!</h1>
-            <hr class="hr3">
-        </main>
-        <footer>
+        <main class="login-container">
+            <h1>Faça aqui seu Login</h1>
+            <div class="auth-box">
+                <input type="email" id="email" placeholder="E-mail" required>
+                <input type="password" id="senha" placeholder="Senha" required>
+                <button id="btn-login">Entrar</button>
+                <button id="btn-cadastro" class="secundario">Criar Conta</button>
+            </div>
+            <p id="mensagem"></p>
+            <a href="index.html" class="btn-voltar">← Voltar à Loja</a>
+            <footer>
             <p>© 2025 Todos os direitos reservados a Lucas Bruno – Aluno de Engenharia de Software da Faculdade Cruzeiro do Sul</p>
         </footer>
         <script type="module" src="js/script.js"></script>
