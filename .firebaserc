@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "cupcakes-do-lucas"
-  }
+    "default": "cupcakes-do-lucas",
+    "main": "pit-lucas-2025"
+  },
+  "targets": {},
+  "etags": {}
 }

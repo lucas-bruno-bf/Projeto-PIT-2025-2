@@ -26,9 +26,9 @@ O design foi pensado para ser limpo, moderno e intuitivo, destacando os produtos
 
 Durante o desenvolvimento utilizei as seguintes tecnologias:
 
-HTML5: Estruturação da página e conteúdo
+HTML: Estruturação da página e conteúdo
 
-CSS3: Estilização, cores, tipografia e responsividade
+CSS: Estilização, cores, tipografia e responsividade
 
 JavaScript: Lógica de interação com o usuário e contador do carrinho
 
