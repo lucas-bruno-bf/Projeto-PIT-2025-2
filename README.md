@@ -51,7 +51,7 @@ Publiquei o site utilizando o Firebase Hosting, o que permite o acesso online e 
 --Acesso ao Projeto--
 
 O site já está hospedado e disponível online pelo link abaixo:
--- --
+-- https://pit-lucas-2025.web.app/ --
 
 --Principais Funcionalidades--
 
@@ -73,7 +73,7 @@ Caso queira clonar o projeto e rodar em sua máquina:
 git clone 
 
 # Acesse a pasta do projeto
-cd cupcakes-do-lucas
+cd Projeto-PIT-2025-2\public
 
 # Abra o arquivo principal
 start index.html
