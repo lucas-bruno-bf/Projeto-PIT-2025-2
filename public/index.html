@@ -14,8 +14,15 @@
                 <a href="index.html" class="ativo">Página inicial</a>
                 <a href="carrinho.html">Meus pedidos (<span id="contador-carrinho">0</span>)</a>
                 <a href="sobre.html">Sobre</a>
-                <a href="login.html" class="ativo">Login</a>
+                <div id="usuario-info" style="display: none;">
+                <span id="usuario-email"></span>
+                <button onclick="logout()" class="btn-logout">Sair</button>
+                </div>
+
+                <a id="btn-ir-login" href="login.html">Entrar</a>
+
             </nav>
+            
         </header>
         <main>
             <p class="sub-banner">Cupcakes do Lucas</p>

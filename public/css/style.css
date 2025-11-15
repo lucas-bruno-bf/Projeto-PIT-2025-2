@@ -104,3 +104,10 @@ button {
     cursor: pointer;
     transition: background 0.2s;
 }
+
+div.usuario-info {
+    display: inline-block;
+    margin-left: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
