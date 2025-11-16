@@ -87,6 +87,31 @@ section h2 {
     border-radius: 8px;
 }
 
+@media (max-width: 768px) {
+    .cards {
+        max-width: 100%;
+    }
+
+    .card img {
+        height: 150px;    
+    }
+}
+
+@media (max-width: 480px) {
+    .sub-banner {
+        font-size: 40px;
+    }
+
+    .section h2 {
+        font-size: 22px;
+    }
+
+    .card img {
+        height: 120px;    
+    }
+}
+
+
 footer {
     background: #584c72;
     color: #fff;
